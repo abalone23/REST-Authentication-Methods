@@ -19,7 +19,7 @@ GET
 
 ##### URL
 
-www.example.com?id=123&key=abc
+<div style="display: inline">www.example.com?id=123&key=abc</div>
 
 
 ##### Header

@@ -32,7 +32,7 @@ None
 
 ##### URL
 
-www.example.com?id=123
+`www.example.com?id=123`
 
 
 ##### Header
@@ -58,7 +58,7 @@ GET
 
 ##### URL
 
-www.example.com?id=123
+`www.example.com?id=123`
 
 
 ##### Header
@@ -92,7 +92,7 @@ POST
 
 ##### URL
 
-auth.example.com
+`auth.example.com`
 
 
 ##### Body
@@ -120,7 +120,7 @@ POST
 
 ##### URL
 
-auth.example.com
+`auth.example.com`
 
 
 ##### Body
@@ -154,7 +154,7 @@ abc
 
 ##### URL
 
-www.example.com?id=123
+`www.example.com?id=123`
 
 
 ##### Body
@@ -185,7 +185,7 @@ Bearer abc
 
 ##### URL
 
-www.example.com?id=123
+`www.example.com?id=123`
 
 
 ##### Body
